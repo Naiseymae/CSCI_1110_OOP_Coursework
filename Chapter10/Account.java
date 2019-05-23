@@ -1,4 +1,3 @@
-package exercise_10_7;
 
 import java.util.Date;
 
