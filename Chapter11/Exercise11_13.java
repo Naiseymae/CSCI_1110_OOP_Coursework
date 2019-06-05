@@ -1,4 +1,3 @@
-package exercise_11_13;
 
 import java.util.ArrayList;
 import java.util.Scanner;
