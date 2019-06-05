@@ -1,4 +1,3 @@
-package exercise_11_1;
 
 public abstract class GeometricObject {
   private String color = "white";
