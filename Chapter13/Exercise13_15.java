@@ -1,14 +1,15 @@
+package exercise_13_15;
 
 /* 
  * Author: Renee Linford
- * Date: 6-17-19
- * OOP Exercise 13-15: Rational class with BigInteger for numerator and denominator.
+ * Date: 6-14-19
+ * OOP Exercise 13-15: Use BigInteger for the Rational Class
  */
 
 public class Exercise13_15 {
 
 	public static void main(String[] args) {
-		// Invoke Rational class with BigIntegers.
+		// Redesign and implement the Rational class using BigInteger for the numerator and denominator.
 		
 		
 
