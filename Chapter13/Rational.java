@@ -1,9 +1,9 @@
-package exercise_13_13;
+package exercise_13_15;
 
 /* 
  * Author: Renee Linford
  * Date: 6-17-19
- * OOP Exercise 13-13: Rational class with BigInteger for numerator and denominator.
+ * OOP Exercise 13-15: Rational class with BigInteger for numerator and denominator.
  */
 
 import java.math.BigInteger;
