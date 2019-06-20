@@ -1,4 +1,3 @@
-package exercise_14_1;
 
 /* 
  * Author: Renee Linford
