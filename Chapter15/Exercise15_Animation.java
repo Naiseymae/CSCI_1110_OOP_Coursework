@@ -1,4 +1,3 @@
-package exercise_15_Animation;
 
 /* 
  * Author: Renee Linford
