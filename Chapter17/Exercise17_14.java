@@ -24,15 +24,14 @@ public class Exercise17_14 {
 
 			// Write encrypted file version and save under new file name.
 			String encryptedFileName = ("encrypted.dat");
-			//RandomAccessFile targetFile = new RandomAccessFile("exercise_17_14/" + encryptedFileName, "rw");
-
+			
 			// New InputStream/OutputStream.
 			DataInputStream input = new DataInputStream(
 					new FileInputStream("exercise_17_14/" + sourceFile));
 			DataOutputStream output = new DataOutputStream(
 					new FileOutputStream("exercise_17_14/" + encryptedFileName));
 
-			// Copy data from original file with encryption ("5").
+			// Copy data from original file with encryption (+5).
 			int r;
 			while ((r = input.read()) != -1) {
 				output.write(r + 5);
