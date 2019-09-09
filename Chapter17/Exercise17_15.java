@@ -28,7 +28,6 @@ public class Exercise17_15 {
 
 			// New InputStream/OutputStream.
 			DataInputStream input = new DataInputStream( new FileInputStream("exercise_17_14/" + sourceFile));
-			//FileOutputStream output = new FileOutputStream("exercise_17_14/" + encryptedFileName);
 			FileOutputStream output = new FileOutputStream("exercise_17_14/" + decryptedFileName);
 
 
